@@ -11,7 +11,7 @@ This project implements a Flask API for voice cloning using the Gradio client. T
 
 ## Prerequisites
 
-- Python 3.7+
+- Python 3.9+
 - [Flask](https://pypi.org/project/Flask/)
 - [Pydantic](https://pypi.org/project/pydantic/)
 - [Gradio Client](https://gradio.app/client)
